@@ -8,15 +8,15 @@ Unveiling the True Impact of Retail Promotions using Visualisation
 4. Optimize Promotion Strategy Based on Data Insights: Leverage insights from the analysis of incremental profit and ROI to refine promotional strategies, maximizing sales while ensuring the most effective allocation of promotional spend across different areas.
 
 ## Data Description
-Time Period: The dataset covers promotional and sales data from 2012 to 2015
-Avg_Value_sales (Promo-level): The average value of sales generated during the promotional period, indicating the revenue contribution from promotions.
-ROI%System (Promo-level): The return on investment percentage for each promotion, an essential metric for evaluating the efficiency of promotional spending.
-Investment-System (Promo-level): Represent the promotional spend (e.g., trade and marketing expenses) tied to each promotion, key for analyzing budget allocation and its impact on sales.
-PromoLift(%) (Promo-level): Percentage increase in sales volume due to the promotion, indicating the promotional effectiveness in driving incremental sales.
-BLAvgPrice (Promo-level) and  Avg_Price (Promo-level): Baseline (non-promotional) average price and average price during promotions. Comparing these can reveal discount depth and pricing strategy.
-Lift (Promo-level): Indicates the absolute increase in sales due to the promotion, a direct measure of the impact of promotional activities.
-Sub-category and Sub-channel: Helps in segmenting promotions based on product category and distribution channels, enabling more granular insights.
-Product and Brand View Product Name: Identifies the specific products and brands involved in promotions, useful for product-level analysis and brand-specific performance evaluation.
+1. Time Period: The dataset covers promotional and sales data from 2012 to 2015
+2. Avg_Value_sales (Promo-level): The average value of sales generated during the promotional period, indicating the revenue contribution from promotions.
+3. ROI%System (Promo-level): The return on investment percentage for each promotion, an essential metric for evaluating the efficiency of promotional spending.
+4. Investment-System (Promo-level): Represent the promotional spend (e.g., trade and marketing expenses) tied to each promotion, key for analyzing budget allocation and its impact on sales.
+5. PromoLift(%) (Promo-level): Percentage increase in sales volume due to the promotion, indicating the promotional effectiveness in driving incremental sales.
+6. BLAvgPrice (Promo-level) and  Avg_Price (Promo-level): Baseline (non-promotional) average price and average price during promotions. Comparing these can reveal discount depth and pricing strategy.
+7. Lift (Promo-level): Indicates the absolute increase in sales due to the promotion, a direct measure of the impact of promotional activities.
+8. Sub-category and Sub-channel: Helps in segmenting promotions based on product category and distribution channels, enabling more granular insights.
+9. Product and Brand View Product Name: Identifies the specific products and brands involved in promotions, useful for product-level analysis and brand-specific performance evaluation.
 
 <img width="1119" alt="Screenshot 2024-12-09 at 4 59 58 PM" src="https://github.com/user-attachments/assets/6b85f0e8-0ca8-4f22-892d-650b7f468eee">
 
